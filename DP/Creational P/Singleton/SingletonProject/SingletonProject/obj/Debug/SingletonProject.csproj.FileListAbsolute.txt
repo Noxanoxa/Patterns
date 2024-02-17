@@ -1,0 +1,7 @@
+C:\Users\Amris\Downloads\Patterns\DP\CreationalP\Singleton\SingletonProject\SingletonProject\bin\Debug\SingletonProject.exe.config
+C:\Users\Amris\Downloads\Patterns\DP\CreationalP\Singleton\SingletonProject\SingletonProject\bin\Debug\SingletonProject.exe
+C:\Users\Amris\Downloads\Patterns\DP\CreationalP\Singleton\SingletonProject\SingletonProject\bin\Debug\SingletonProject.pdb
+C:\Users\Amris\Downloads\Patterns\DP\CreationalP\Singleton\SingletonProject\SingletonProject\obj\Debug\SingletonProject.csproj.AssemblyReference.cache
+C:\Users\Amris\Downloads\Patterns\DP\CreationalP\Singleton\SingletonProject\SingletonProject\obj\Debug\SingletonProject.csproj.CoreCompileInputs.cache
+C:\Users\Amris\Downloads\Patterns\DP\CreationalP\Singleton\SingletonProject\SingletonProject\obj\Debug\SingletonProject.exe
+C:\Users\Amris\Downloads\Patterns\DP\CreationalP\Singleton\SingletonProject\SingletonProject\obj\Debug\SingletonProject.pdb
