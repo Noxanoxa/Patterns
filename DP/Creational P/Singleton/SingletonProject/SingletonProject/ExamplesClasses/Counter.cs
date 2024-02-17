@@ -12,13 +12,19 @@ namespace SingletonProject.ExamplesClasses
 
         /* private static Counter instance = new Counter();*//* lazy initialization : to solve problem that creating this instance just when i run the program even it don't be used  */
         private static Counter instance = null;
+        private static object lockobject = new object();
         private Counter() { }
 
             public static Counter GetInstance() {
                 /*return instance;*/
+            if (instance == null) /* this called double check is more saftey than using just lockobject */
+            {
+                lock (lockobject)
+                {
                 if (instance == null)
                 instance = new Counter();
-
+                }
+            }
                 return instance;
                 
         }        
